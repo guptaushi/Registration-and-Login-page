@@ -1,0 +1,80 @@
+title{
+    position: relative;
+    margin: 50px 50px 0 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.right-img{
+    display:block;
+    margin-top: 0%;
+}
+.logo{
+    height: 310px;
+    padding-top: 145px;
+    text-align: center;
+    background: url(./digital-hand-touching-technology-polygonal-wireframe-art_201274-495.avif) no-repeat;
+    background-image: url(./digital-hand-touching-technology-polygonal-wireframe-art_201274-495.avif);
+    background-position-x: initial;
+    background-position-y:initial;
+    background-size: initial;
+    background-repeat: no-repeat;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    background-size: cover;
+}
+body{
+    background-color: beige;
+    font-family: "Poppins" , sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+.heading{
+    text-align: center;
+    font-size: 3rem;
+    font-family: "Poppins", sans-serif;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.registration{
+    color: midnightblue;
+}
+.footer{
+    text-align: right;
+    color: midnightblue;
+    font-size: smaller;
+    margin-right: auto;
+    margin-left: auto;
+}
+#registration-container{
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: left;
+    display: block;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+}
+button{
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #45a049;
+}
+form{
+    width: 50%;
+}
